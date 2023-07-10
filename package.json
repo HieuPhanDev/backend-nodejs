@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "Sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Sever.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HieuPhanDev/backend-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "hieuphandev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HieuPhanDev/backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/HieuPhanDev/backend-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
